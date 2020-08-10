@@ -44,7 +44,7 @@ Watch [this](https://youtube.com)
 You might have noticed that `else` statements are a sort of 'catch-all'.\
 Meaning, if the  `if` statements aren't true, we run the else statement.\
 But what if we only have `if` statements, or we only want if statements to run in a specific scenario?\
-Enter `else if` & nested `if`\
+Enter `else if` & nested `if`
 
 ###### Let's start with an example
 ```
