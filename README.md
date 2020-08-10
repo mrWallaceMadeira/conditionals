@@ -1,4 +1,4 @@
-# Lesson 9: `If` two roads diverged in a yellow wood, `else` stop reading Robert Frost
+# Lesson 9: `If` two roads diverged in a yellow wood
 This is where the rubber hits the road, folks.\
 Prior to this lesson our programs looked like a straight line.
 ```
