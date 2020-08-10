@@ -64,4 +64,7 @@ Enter `else if` & nested `if`
 ```
 A _lot_ going on here. Watch [this video](https://youtube.com) to see how it works.
 
+### :performing_arts:&nbsp; C'est fini 
+Entry ticket [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUNEg2TVE1TElGOTBBQVlOMDdWUzJBOEszSCQlQCN0PWcu)
+
 
