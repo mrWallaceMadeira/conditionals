@@ -10,7 +10,6 @@ Prior to this lesson our programs looked like a straight line.
 Each of these three lines will be run by the computer (unless I missed an error).\
 We'll learn how to make more complex programs by adding new 'paths' to our code
 
-----
 ![noIdea](noIdea.gif)
 
 ----
