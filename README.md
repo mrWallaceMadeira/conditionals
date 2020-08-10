@@ -1,4 +1,4 @@
-# Lesson 9: `if else` a.k.a control flow pt. 1
+# Lesson 9: `If` two roads diverged in a yellow wood, `else` stop reading Robert Frost
 This is where the rubber hits the road, folks.\
 Prior to this lesson our programs looked like a straight line.
 ```
