@@ -37,7 +37,7 @@ Think of it like a yes/no question
   - If the answer is yes, do the stuff inside `{}` 
   - If it's no, do the stuff inside the `{}` that correspond with else
 
-### :hand:&nbsp;
+### :hand:&nbsp; Stop!
 Watch [this](https://youtube.com)
 
 ### `If` + `else` = `else if` ?
