@@ -37,3 +37,31 @@ Think of it like a yes/no question
   - If the answer is yes, do the stuff inside `{}` 
   - If it's no, do the stuff inside the `{}` that correspond with else
 
+### :hand:&nbsp;
+Watch [this](https://youtube.com)
+
+### `If` + `else` = `else if` ?
+You might have noticed that `else` statements are a sort of 'catch-all'.\
+Meaning, if the  `if` statements aren't true, we run the else statement.\
+But what if we only have `if` statements, or we only want if statements to run in a specific scenario?\
+Enter `else if` & nested `if`\
+
+###### Let's start with an example
+```
+  int myInt = 1;
+  if (true) {
+    myInt = 2;
+    if (false) {
+      myInt = 3;
+    }
+  }
+  else if (true) {
+    myInt = 4;
+  }
+  else {
+    myInt = 5;
+  }   
+```
+A _lot_ going on here. Watch [this video](https://youtube.com) to see how it works.
+
+
