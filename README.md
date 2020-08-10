@@ -33,7 +33,7 @@ So what do we notice here?
   - [x] Some of these: `{}` lil' guys
 
 All if/else statements _must_ take a boolean statement within their `()`.\
-Think of it like a yes/no question\
+Think of it like a yes/no question
   - If the answer is yes, do the stuff inside `{}` 
   - If it's no, do the stuff inside the `{}` that correspond with else
 
